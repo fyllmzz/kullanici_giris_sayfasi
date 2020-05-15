@@ -1,0 +1,11 @@
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe.config
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Form1.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Form2.resources
